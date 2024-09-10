@@ -1,1 +1,1 @@
-This is a responsive CSS base business card.
+This is a responsive HTML and CSS base only business card.
